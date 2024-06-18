@@ -1,1 +1,1 @@
-A React Chat client build using Firebase.
+A React Chat client built using Firebase.
